@@ -1,0 +1,15 @@
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\Calculator2\Calculator2\bin\Debug\net8.0\Calculator2.exe
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\Calculator2\Calculator2\bin\Debug\net8.0\Calculator2.deps.json
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\Calculator2\Calculator2\bin\Debug\net8.0\Calculator2.runtimeconfig.json
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\Calculator2\Calculator2\bin\Debug\net8.0\Calculator2.dll
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\Calculator2\Calculator2\bin\Debug\net8.0\Calculator2.pdb
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\Calculator2\Calculator2\obj\Debug\net8.0\Calculator2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\Calculator2\Calculator2\obj\Debug\net8.0\Calculator2.AssemblyInfoInputs.cache
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\Calculator2\Calculator2\obj\Debug\net8.0\Calculator2.AssemblyInfo.cs
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\Calculator2\Calculator2\obj\Debug\net8.0\Calculator2.csproj.CoreCompileInputs.cache
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\Calculator2\Calculator2\obj\Debug\net8.0\Calculator2.sourcelink.json
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\Calculator2\Calculator2\obj\Debug\net8.0\Calculator2.dll
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\Calculator2\Calculator2\obj\Debug\net8.0\refint\Calculator2.dll
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\Calculator2\Calculator2\obj\Debug\net8.0\Calculator2.pdb
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\Calculator2\Calculator2\obj\Debug\net8.0\Calculator2.genruntimeconfig.cache
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\Calculator2\Calculator2\obj\Debug\net8.0\ref\Calculator2.dll
