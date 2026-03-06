@@ -1,0 +1,15 @@
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\While Loops\While Loops\bin\Debug\net8.0\While Loops.exe
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\While Loops\While Loops\bin\Debug\net8.0\While Loops.deps.json
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\While Loops\While Loops\bin\Debug\net8.0\While Loops.runtimeconfig.json
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\While Loops\While Loops\bin\Debug\net8.0\While Loops.dll
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\While Loops\While Loops\bin\Debug\net8.0\While Loops.pdb
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\While Loops\While Loops\obj\Debug\net8.0\While Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\While Loops\While Loops\obj\Debug\net8.0\While Loops.AssemblyInfoInputs.cache
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\While Loops\While Loops\obj\Debug\net8.0\While Loops.AssemblyInfo.cs
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\While Loops\While Loops\obj\Debug\net8.0\While Loops.csproj.CoreCompileInputs.cache
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\While Loops\While Loops\obj\Debug\net8.0\While Loops.sourcelink.json
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\While Loops\While Loops\obj\Debug\net8.0\While Loops.dll
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\While Loops\While Loops\obj\Debug\net8.0\refint\While Loops.dll
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\While Loops\While Loops\obj\Debug\net8.0\While Loops.pdb
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\While Loops\While Loops\obj\Debug\net8.0\While Loops.genruntimeconfig.cache
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\While Loops\While Loops\obj\Debug\net8.0\ref\While Loops.dll
