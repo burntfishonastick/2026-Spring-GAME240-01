@@ -1,0 +1,15 @@
+D:\Github Projects\2026-Spring-GAME240-01\homework\march_9\project\Smallest and Biggest Array\Smallest and Biggest Array\obj\Debug\net8.0\Smallest and Biggest Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Projects\2026-Spring-GAME240-01\homework\march_9\project\Smallest and Biggest Array\Smallest and Biggest Array\obj\Debug\net8.0\Smallest and Biggest Array.AssemblyInfoInputs.cache
+D:\Github Projects\2026-Spring-GAME240-01\homework\march_9\project\Smallest and Biggest Array\Smallest and Biggest Array\obj\Debug\net8.0\Smallest and Biggest Array.AssemblyInfo.cs
+D:\Github Projects\2026-Spring-GAME240-01\homework\march_9\project\Smallest and Biggest Array\Smallest and Biggest Array\obj\Debug\net8.0\Smallest and Biggest Array.csproj.CoreCompileInputs.cache
+D:\Github Projects\2026-Spring-GAME240-01\homework\march_9\project\Smallest and Biggest Array\Smallest and Biggest Array\obj\Debug\net8.0\Smallest and Biggest Array.sourcelink.json
+D:\Github Projects\2026-Spring-GAME240-01\homework\march_9\project\Smallest and Biggest Array\Smallest and Biggest Array\bin\Debug\net8.0\Smallest and Biggest Array.exe
+D:\Github Projects\2026-Spring-GAME240-01\homework\march_9\project\Smallest and Biggest Array\Smallest and Biggest Array\bin\Debug\net8.0\Smallest and Biggest Array.deps.json
+D:\Github Projects\2026-Spring-GAME240-01\homework\march_9\project\Smallest and Biggest Array\Smallest and Biggest Array\bin\Debug\net8.0\Smallest and Biggest Array.runtimeconfig.json
+D:\Github Projects\2026-Spring-GAME240-01\homework\march_9\project\Smallest and Biggest Array\Smallest and Biggest Array\bin\Debug\net8.0\Smallest and Biggest Array.dll
+D:\Github Projects\2026-Spring-GAME240-01\homework\march_9\project\Smallest and Biggest Array\Smallest and Biggest Array\bin\Debug\net8.0\Smallest and Biggest Array.pdb
+D:\Github Projects\2026-Spring-GAME240-01\homework\march_9\project\Smallest and Biggest Array\Smallest and Biggest Array\obj\Debug\net8.0\Smallest and Biggest Array.dll
+D:\Github Projects\2026-Spring-GAME240-01\homework\march_9\project\Smallest and Biggest Array\Smallest and Biggest Array\obj\Debug\net8.0\refint\Smallest and Biggest Array.dll
+D:\Github Projects\2026-Spring-GAME240-01\homework\march_9\project\Smallest and Biggest Array\Smallest and Biggest Array\obj\Debug\net8.0\Smallest and Biggest Array.pdb
+D:\Github Projects\2026-Spring-GAME240-01\homework\march_9\project\Smallest and Biggest Array\Smallest and Biggest Array\obj\Debug\net8.0\Smallest and Biggest Array.genruntimeconfig.cache
+D:\Github Projects\2026-Spring-GAME240-01\homework\march_9\project\Smallest and Biggest Array\Smallest and Biggest Array\obj\Debug\net8.0\ref\Smallest and Biggest Array.dll
