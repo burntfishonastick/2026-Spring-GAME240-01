@@ -1,0 +1,15 @@
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\Advanced Calculator\Advanced Calculator\obj\Debug\net8.0\Advanced Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\Advanced Calculator\Advanced Calculator\obj\Debug\net8.0\Advanced Calculator.AssemblyInfoInputs.cache
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\Advanced Calculator\Advanced Calculator\obj\Debug\net8.0\Advanced Calculator.AssemblyInfo.cs
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\Advanced Calculator\Advanced Calculator\obj\Debug\net8.0\Advanced Calculator.csproj.CoreCompileInputs.cache
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\Advanced Calculator\Advanced Calculator\obj\Debug\net8.0\Advanced Calculator.sourcelink.json
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\Advanced Calculator\Advanced Calculator\bin\Debug\net8.0\Advanced Calculator.exe
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\Advanced Calculator\Advanced Calculator\bin\Debug\net8.0\Advanced Calculator.deps.json
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\Advanced Calculator\Advanced Calculator\bin\Debug\net8.0\Advanced Calculator.runtimeconfig.json
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\Advanced Calculator\Advanced Calculator\bin\Debug\net8.0\Advanced Calculator.dll
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\Advanced Calculator\Advanced Calculator\bin\Debug\net8.0\Advanced Calculator.pdb
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\Advanced Calculator\Advanced Calculator\obj\Debug\net8.0\Advanced Calculator.dll
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\Advanced Calculator\Advanced Calculator\obj\Debug\net8.0\refint\Advanced Calculator.dll
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\Advanced Calculator\Advanced Calculator\obj\Debug\net8.0\Advanced Calculator.pdb
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\Advanced Calculator\Advanced Calculator\obj\Debug\net8.0\Advanced Calculator.genruntimeconfig.cache
+D:\Github Projects\2026-Spring-GAME240-01\homework\february_19\project\Advanced Calculator\Advanced Calculator\obj\Debug\net8.0\ref\Advanced Calculator.dll
