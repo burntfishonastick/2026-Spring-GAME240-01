@@ -1,0 +1,15 @@
+D:\Github Projects\2026-Spring-GAME240-01\homework\april_27\project\Fishmonger Files\Fishmonger Files\bin\Debug\net8.0\Fishmonger Files.exe
+D:\Github Projects\2026-Spring-GAME240-01\homework\april_27\project\Fishmonger Files\Fishmonger Files\bin\Debug\net8.0\Fishmonger Files.deps.json
+D:\Github Projects\2026-Spring-GAME240-01\homework\april_27\project\Fishmonger Files\Fishmonger Files\bin\Debug\net8.0\Fishmonger Files.runtimeconfig.json
+D:\Github Projects\2026-Spring-GAME240-01\homework\april_27\project\Fishmonger Files\Fishmonger Files\bin\Debug\net8.0\Fishmonger Files.dll
+D:\Github Projects\2026-Spring-GAME240-01\homework\april_27\project\Fishmonger Files\Fishmonger Files\bin\Debug\net8.0\Fishmonger Files.pdb
+D:\Github Projects\2026-Spring-GAME240-01\homework\april_27\project\Fishmonger Files\Fishmonger Files\obj\Debug\net8.0\Fishmonger Files.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Projects\2026-Spring-GAME240-01\homework\april_27\project\Fishmonger Files\Fishmonger Files\obj\Debug\net8.0\Fishmonger Files.AssemblyInfoInputs.cache
+D:\Github Projects\2026-Spring-GAME240-01\homework\april_27\project\Fishmonger Files\Fishmonger Files\obj\Debug\net8.0\Fishmonger Files.AssemblyInfo.cs
+D:\Github Projects\2026-Spring-GAME240-01\homework\april_27\project\Fishmonger Files\Fishmonger Files\obj\Debug\net8.0\Fishmonger Files.csproj.CoreCompileInputs.cache
+D:\Github Projects\2026-Spring-GAME240-01\homework\april_27\project\Fishmonger Files\Fishmonger Files\obj\Debug\net8.0\Fishmonger Files.sourcelink.json
+D:\Github Projects\2026-Spring-GAME240-01\homework\april_27\project\Fishmonger Files\Fishmonger Files\obj\Debug\net8.0\Fishmonger Files.dll
+D:\Github Projects\2026-Spring-GAME240-01\homework\april_27\project\Fishmonger Files\Fishmonger Files\obj\Debug\net8.0\refint\Fishmonger Files.dll
+D:\Github Projects\2026-Spring-GAME240-01\homework\april_27\project\Fishmonger Files\Fishmonger Files\obj\Debug\net8.0\Fishmonger Files.pdb
+D:\Github Projects\2026-Spring-GAME240-01\homework\april_27\project\Fishmonger Files\Fishmonger Files\obj\Debug\net8.0\Fishmonger Files.genruntimeconfig.cache
+D:\Github Projects\2026-Spring-GAME240-01\homework\april_27\project\Fishmonger Files\Fishmonger Files\obj\Debug\net8.0\ref\Fishmonger Files.dll
