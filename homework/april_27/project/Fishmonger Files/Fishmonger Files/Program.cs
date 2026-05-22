@@ -10,14 +10,11 @@ while (true)
     {
         if (File.Exists(specialsfile))
         {
-            break;
         }
-        else
-        {
-            Console.WriteLine("No File Found, please try again");
-        }
+        break;
+        //replace with the streamreader
     }
-    catch
+    catch (Exception e)
     {
         Console.WriteLine("File does not exist, please try again");
     }
@@ -33,12 +30,8 @@ while (true)
     {
         if (File.Exists(logsfile))
         {
-            break;
         }
-        else
-        {
-            Console.WriteLine("No File Found, please try again");
-        }
+        break;
     }
     catch
     {
